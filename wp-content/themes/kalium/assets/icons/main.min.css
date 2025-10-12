@@ -1,0 +1,273 @@
+@font-face {
+  font-family: "KaliumIcons";
+  src: url("/wp-content/themes/kalium/assets/icons/main/KaliumIcons.ttf?3ozl5p") format("truetype"), url("/wp-content/themes/kalium/assets/icons/main/KaliumIcons.woff?3ozl5p") format("woff"), url("/wp-content/themes/kalium/assets/icons/main/KaliumIcons.svg?3ozl5p#KaliumIcons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^=kalium-icon-],
+[class*=" kalium-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "KaliumIcons" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.kalium-icon-blog-post-default:before {
+  content: "\e914";
+}
+
+.kalium-icon-blog-post-blockquote:before {
+  content: "\e91a";
+}
+
+.kalium-icon-blog-post-video:before {
+  content: "\e91b";
+}
+
+.kalium-icon-blog-post-link:before {
+  content: "\e91c";
+}
+
+.kalium-icon-blog-post-gallery:before {
+  content: "\e91d";
+}
+
+.kalium-icon-blog-post-photo:before {
+  content: "\e91e";
+}
+
+.kalium-icon-blog-post-audio:before {
+  content: "\e91f";
+}
+
+.kalium-icon-blog-post-category:before {
+  content: "\e920";
+}
+
+.kalium-icon-blog-post-date:before {
+  content: "\e921";
+}
+
+.kalium-icon-play:before {
+  content: "\e937";
+}
+
+.kalium-icon-check:before {
+  content: "\e935";
+}
+
+.kalium-icon-eye:before {
+  content: "\e934";
+}
+
+.kalium-icon-hide-password:before {
+  content: "\e930";
+}
+
+.kalium-icon-show-password:before {
+  content: "\e92e";
+}
+
+.kalium-icon-brand-logo:before {
+  content: "\e924";
+}
+
+.kalium-icon-my-account:before {
+  content: "\e90a";
+}
+
+.kalium-icon-logout:before {
+  content: "\e910";
+}
+
+.kalium-icon-login:before {
+  content: "\e911";
+}
+
+.kalium-icon-list:before {
+  content: "\e90c";
+}
+
+.kalium-icon-search:before {
+  content: "\e909";
+}
+
+.kalium-icon-remove:before {
+  content: "\e900";
+}
+
+.kalium-icon-plus:before {
+  content: "\e901";
+}
+
+.kalium-icon-minus:before {
+  content: "\e902";
+}
+
+.kalium-icon-home:before {
+  content: "\e90b";
+}
+
+.kalium-icon-refresh:before {
+  content: "\e912";
+}
+
+.kalium-icon-subscriptions:before {
+  content: "\e933";
+}
+
+.kalium-icon-alert-info:before {
+  content: "\e918";
+}
+
+.kalium-icon-alert-success:before {
+  content: "\e919";
+}
+
+.kalium-icon-circle-empty:before {
+  content: "\e93d";
+}
+
+.kalium-icon-circle-filled:before {
+  content: "\e93e";
+}
+
+.kalium-icon-shop-filter:before {
+  content: "\e93a";
+}
+
+.kalium-icon-layout-grid-2:before {
+  content: "\e922";
+}
+
+.kalium-icon-layout-grid-3:before {
+  content: "\e923";
+}
+
+.kalium-icon-layout-grid-4:before {
+  content: "\e938";
+}
+
+.kalium-icon-layout-grid-5:before {
+  content: "\e93b";
+}
+
+.kalium-icon-layout-grid-6:before {
+  content: "\e93c";
+}
+
+.kalium-icon-layout-list:before {
+  content: "\e939";
+}
+
+.kalium-icon-zoom:before {
+  content: "\e936";
+}
+
+.kalium-icon-payment-method:before {
+  content: "\e92f";
+}
+
+.kalium-icon-star-empty:before {
+  content: "\e903";
+}
+
+.kalium-icon-star-filled:before {
+  content: "\e904";
+}
+
+.kalium-icon-folder-downloads:before {
+  content: "\e90d";
+}
+
+.kalium-icon-map-pin:before {
+  content: "\e90f";
+}
+
+.kalium-icon-folder-empty:before {
+  content: "\e90e";
+}
+
+.kalium-icon-shopping-bag:before {
+  content: "\e906";
+}
+
+.kalium-icon-add-to-wishlist:before {
+  content: "\e931";
+}
+
+.kalium-icon-added-to-wishlist:before {
+  content: "\e932";
+}
+
+.kalium-icon-shopping-cart:before {
+  content: "\e907";
+}
+
+.kalium-icon-shopping-basket:before {
+  content: "\e908";
+}
+
+.kalium-icon-coupon-cut:before {
+  content: "\e913";
+}
+
+.kalium-icon-arrow-corner-left:before {
+  content: "\e925";
+}
+
+.kalium-icon-arrow-corner-right:before {
+  content: "\e926";
+}
+
+.kalium-icon-long-arrow-down:before {
+  content: "\e927";
+}
+
+.kalium-icon-long-arrow-left:before {
+  content: "\e928";
+}
+
+.kalium-icon-long-arrow-right:before {
+  content: "\e929";
+}
+
+.kalium-icon-long-arrow-up:before {
+  content: "\e92a";
+}
+
+.kalium-icon-arrow-left:before {
+  content: "\e92b";
+}
+
+.kalium-icon-arrow-right:before {
+  content: "\e92c";
+}
+
+.kalium-icon-arrow-up:before {
+  content: "\e92d";
+}
+
+.kalium-icon-arrow-down:before {
+  content: "\e915";
+}
+
+.kalium-icon-alert-warning:before {
+  content: "\e916";
+}
+
+.kalium-icon-alert-error:before {
+  content: "\e917";
+}
+
+.kalium-icon-shopping-bag-empty:before {
+  content: "\e905";
+}
